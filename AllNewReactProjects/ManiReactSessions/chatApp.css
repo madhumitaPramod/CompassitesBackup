@@ -1,0 +1,16 @@
+.search_block{
+    background-color: #006bd6;
+}
+.chat_users{
+   background: aliceblue;
+    height: 500px;
+}
+.chats_block{
+    background: antiquewhite;
+}
+.user_profile{
+    background-color:yellowgreen;
+}
+.chat_inner_block{
+    margin: 24px;
+}
